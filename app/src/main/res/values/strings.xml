@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">See Connections</string>
+    <string name="number_demo">Type a number, from 1 to 2000</string>
+</resources>
